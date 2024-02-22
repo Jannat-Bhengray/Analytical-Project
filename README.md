@@ -1,3 +1,8 @@
+All_video_games_analysis:-
+In this project, I had Analyze "all_video_games" data from 1995 to 2024 and visualized that publisher "Nintendo" has created the highest number of genres "559".
+From the analysis, we can see that "games for teens" are highly rated among all the games with a "more than 20K" user rate.
+
+
 Category trend of google:-
 In this project, I had analyze the trends of  total 12 category which are searched on the google i.e.; books & literature, food & drinks, fashion, science, news and many more of India since last 5 years (i.e.; from 2019-2023) 
 I found that top 3 categories are:- computer & electronics, Business & industrial, and Auto & vehicle
