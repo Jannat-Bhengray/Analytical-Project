@@ -28,10 +28,10 @@ Some suggestions that I made as per my analysis:-
 2. Enhance Monitoring and Evaluation Frameworks: To ensure optimal fund utilization, I recommended the implementation of regular progress reviews, audits, and the integration of data analytics tools. These measures are vital in identifying bottlenecks and facilitating swift corrective actions.
 
 
+ALL VIDEO GAMES(1995,2023) ANALYSIS:-
+1)Publisher Dominance: The analysis reveals that Nintendo has created the highest number of game genres, totaling 559, showcasing its diverse and extensive contributions to the video game industry.
 
-All_video_games_analysis:-
-In this project, I had Analyze "all_video_games" data from 1995 to 2024 and visualized that publisher "Nintendo" has created the highest number of genres "559".
-From the analysis, we can see that "games for teens" are highly rated among all the games with a "more than 20K" user rate.
+2)Popularity Insight: Games targeted at teens receive the highest ratings, with over 20,000 user reviews, indicating their strong appeal and engagement within the gaming community.
 
 
 
